@@ -1,0 +1,6 @@
+{
+  "name": "English Master",
+  "description": "Comprehensive English learning platform for Hindi speakers with courses, vocabulary, grammar, speaking practice, translator, and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
